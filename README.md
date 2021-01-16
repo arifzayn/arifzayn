@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <!--
 **arifzayn/arifzayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
