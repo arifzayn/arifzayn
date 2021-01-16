@@ -3,7 +3,7 @@
 🔭 I’m currently working on
 
 <span><img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260667.svg?token=exp=1610816688~hmac=b5e8a8e283fb789b040414c4d4c3c263" width="40px" height="40px"/></span>
-<span><img src="https://www.flaticon.com/svg/vstatic/svg/1548/1548740.svg?token=exp=1610816791~hmac=188e1bc6672fd29e118cb582b25c431a" width="40px" height="40px"/></span>
+<span><img src="https://www.flaticon.com/svg/vstatic/svg/2305/2305963.svg?token=exp=1610816872~hmac=b39a14d25fa3b335699104f0c7863ab4" width="40px" height="40px"/></span>
 
 💬 Connect with me
 
