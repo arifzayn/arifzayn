@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on
 
-<img src="https://media3.giphy.com/media/iFmw13LV1hHhViPPWz/source.gif" />
+<img src="https://media3.giphy.com/media/iFmw13LV1hHhViPPWz/source.gif" width="40px" height="40px"/>
 <!--
 **arifzayn/arifzayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
