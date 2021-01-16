@@ -13,6 +13,7 @@
 ⚡ Github Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifzayn&theme=midnight-purple&layout=compact)](https://github.com/arifzayn/github-readme-stats)
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=arifzayn)](https://github.com/arifzayn/github-contribution-stats/)
 <!--
 **arifzayn/arifzayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
