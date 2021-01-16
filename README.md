@@ -3,6 +3,7 @@
 🔭 I’m currently working on
 
 <img src="https://simpleicons.org/icons/react.svg" width="40px" height="40px"/>
+<img src="https://simpleicons.org/icons/javascript.svg" width="40px" height="40px"/>
 
 💬 Connect with me
 
