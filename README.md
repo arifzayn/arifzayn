@@ -5,7 +5,7 @@
 <img src="https://media3.giphy.com/media/iFmw13LV1hHhViPPWz/source.gif" width="40px" height="40px"/>
 
 💬 Connect with me
-<span><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></span>
+<a href="mailto:iamarifzain@outlook.com" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 <span><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></span>
 
 <!--
