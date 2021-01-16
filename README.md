@@ -19,6 +19,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arifzayn&repo=github-readme-stats)](https://github.com/arifzayn/github-readme-stats)
 
 [![arifzayn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arifzayn)](https://github.com/arifzayn/github-readme-stats)
+
+![Arif's github stats](https://github-readme-stats.vercel.app/api?username=arifzayn&show_icons=true)
 <!--
 **arifzayn/arifzayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
