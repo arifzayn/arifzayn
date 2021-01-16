@@ -7,7 +7,7 @@
 
 💬 Connect with me
 
-<a href="mailto:iamarifzain@outlook.com"  target="_blank" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black" /></a>
+<a href="mailto:iamarifzain@outlook.com"  target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.flaticon.com/svg/vstatic/svg/732/732223.svg?token=exp=1610816282~hmac=bb5fa09487009b276daea328450a04c9" width="40px" height="40px"/></a>
 <a href="http://www.twitter.com/arifzayn"  target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051280.svg?token=exp=1610816047~hmac=8d00cefe0796bd1e8797f68bb5faa304" width="40px" height="40px"/></a>
 
 
