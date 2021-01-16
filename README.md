@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on
 
-<img src="https://media3.giphy.com/media/iFmw13LV1hHhViPPWz/source.gif" width="40px" height="40px"/>
+<img src="https://simpleicons.org/icons/react.svg" width="40px" height="40px"/>
 
 💬 Connect with me
 
