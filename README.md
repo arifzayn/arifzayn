@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on
+🔭 I’m currently working on
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF" />
 <!--
