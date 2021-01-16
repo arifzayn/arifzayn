@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on
 
-<span><img src="https://www.flaticon.com/svg/vstatic/svg/767/767936.svg?token=exp=1610817383~hmac=63fe1eb0d4a6ec2f36109c0d712e0ac6" width="40px" height="40px"/></span>
+<span><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40px" height="40px"/></span>
 <span><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="40px" height="40px"/></span>
 
 💬 Connect with me
