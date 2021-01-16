@@ -6,6 +6,9 @@
 <span><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="40px" height="40px"/></span>
 
 🌱 I’m currently learning
+<a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40px" height="40px"/></a>
+<a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="40px" height="40px"/></a>
+
 
 💬 Reach me ...
 
