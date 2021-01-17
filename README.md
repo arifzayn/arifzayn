@@ -4,12 +4,13 @@
 
 <a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40px" height="40px"/></a>
 <a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="40px" height="40px"/></a>
+<a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="40px" height="40px"/></a>
 
 🌱 I’m currently learning
 
 <a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40px" height="40px"/></a>
 <a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="40px" height="40px"/></a>
-<a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50px" height="50px"/></a>
+<a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="40px" height="40px"/></a>
 
 💬 Reach me ...
 
