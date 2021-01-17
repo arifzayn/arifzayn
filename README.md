@@ -5,7 +5,7 @@
 <a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40px" height="40px"/></a>
 <a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="40px" height="40px"/></a>
 <a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="40px" height="40px"/></a>
-[Firebase](<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="40px" height="40px"/>)
+[Firebase](https://cdn.worldvectorlogo.com/logos/firebase-1.svg)
 
 🌱 I’m currently learning
 
