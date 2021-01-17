@@ -23,7 +23,7 @@
 
 ![Arif's github stats](https://github-readme-stats.vercel.app/api?username=arifzayn&theme=midnight-purple&show_icons=true)
 
-[![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)
 <!--
 **arifzayn/arifzayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
