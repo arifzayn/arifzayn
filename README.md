@@ -15,7 +15,7 @@
 💬 Reach me ...
 
 <a href="mailto:iamarifzain@outlook.com"><img src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" width="40px" height="40px"/></a>
-<a href="http://www.twitter.com/arifzayn"><img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051280.svg?token=exp=1610816047~hmac=8d00cefe0796bd1e8797f68bb5faa304" width="40px" height="40px"/></a>
+<a href="http://www.twitter.com/zayn_css"><img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051280.svg?token=exp=1610816047~hmac=8d00cefe0796bd1e8797f68bb5faa304" width="40px" height="40px"/></a>
 
 ⚡ Github Stats:
 
