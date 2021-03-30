@@ -3,7 +3,7 @@
 🔭 I’m currently working on
 
 <a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40px" height="40px"/></a>
-<a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="40px" height="40px"/></a>
+<a href="https://github.com/arifzayn"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40px" height="40px"/></a>
 <a href="https://github.com/arifzayn"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="40px" height="40px"/></a>
 
 🌱 I’m currently learning :godmode:
@@ -15,7 +15,7 @@
 💬 Reach me ...
 
 <a href="mailto:iamarifzain@outlook.com"><img src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" width="40px" height="40px"/></a>
-<a href="http://www.twitter.com/zayn_css"><img src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1614368595~hmac=13c29e4b67c97671b042eefbbc0d55a9" width="40px" height="40px"/></a>
+<!-- <a href="http://www.twitter.com/zayn_css"><img src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1614368595~hmac=13c29e4b67c97671b042eefbbc0d55a9" width="40px" height="40px"/></a> -->
 
 ⚡ Github Stats:
 
